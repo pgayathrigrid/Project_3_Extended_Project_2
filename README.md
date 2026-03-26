@@ -113,9 +113,13 @@ The extended Streamlit dashboard provides:
 
 ---
 
-## 🖥 Run the Dashboard Locally
+## Run the Dashboard Locally
 
 To run the updated dashboard locally:
 
 ```bash
 streamlit run dashboard_1.py
+
+## Live Dashboard
+
+👉 https://electricity-anomaly-dashboard.streamlit.app
