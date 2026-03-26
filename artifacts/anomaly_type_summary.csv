@@ -1,0 +1,2 @@
+selected_time,predicted_type,trend_score,seasonal_score,residual_score
+2014-08-11 11:00:00,trend_break,3.0021193467715377,1.5385830559842009,1.2187740007118992

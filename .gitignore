@@ -1,0 +1,29 @@
+# Large dataset files (VERY IMPORTANT)
+LD2011_2014.txt
+electricity_load.csv
+
+# Model / training artifacts (not needed for deployment)
+*.pt
+*.onnx
+*.mlpackage
+
+# Notebooks & exports
+*.ipynb
+.ipynb_checkpoints/
+*.html
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac system files
+.DS_Store
+
+# Optional: ignore temporary results (if not needed)
+stage*
+Task*
+demo*
+code_*
+
+# DO NOT IGNORE THIS
+!artifacts/
